@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# ReactJS Training: Creating your first game with React and TypeScript
+
+## Introduction
+
+This project is the implementation of the tutorial
+[Creating your first game with React and TypeScript](https://javascript.plainenglish.io/reactjs-training-creating-your-first-game-with-react-and-typescript-162f56b75e78).
+
+We just followed all the instruction from the tutorial from 2020.
+
+Now, the goal is to refactor the code to use the latest feature from React and TypeScript (functional component, hooks,
+etc).
+
+## Boostrap the project
+
+```bash
+npx create-react-app my-react-connect-four --template typescript
+cd my-react-connect-four
+npm start
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

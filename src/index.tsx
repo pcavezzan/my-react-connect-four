@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <App />
+    <App columns={7} rows={6}/>
   </React.StrictMode>
 );
 
